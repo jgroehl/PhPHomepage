@@ -1,5 +1,8 @@
 <!-- Footer -->
 	<footer id="footer">
+		<div>	
+		<?php include 'hitcounter.php';?>
+		</div>
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
