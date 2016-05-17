@@ -23,6 +23,8 @@ if($lastdigit == 1){
 	$ending = 'st';
 } else if($lastdigit == 2){
 	$ending = 'nd';
+} else if($lastdigit == 3){
+	$ending = 'rd';
 }
 
 $lastdigit = substr($counterVal, -2);
@@ -30,6 +32,8 @@ $lastdigit = substr($counterVal, -2);
 if($lastdigit == 11){
 	$ending = 'th';
 } else if($lastdigit == 12){
+	$ending = 'th';
+} else if($lastdigit == 13){
 	$ending = 'th';
 }
 
