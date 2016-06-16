@@ -13,9 +13,9 @@
 		<?php include '../../templates/articleheader.php';?>
 
 		<div id="main">
-		<h2>
+		<h1>
 		Measuring time using std::chrono
-		</h2>
+		</h1>
 		14.06.2016
 		
 		<div id="introduction">
