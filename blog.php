@@ -14,8 +14,14 @@
 
 		<div id="main">
 			<section id="one">
-				<h2>Welcome!</h2>
-				<p> This Website is still under construction.</p>
+				<h2>Blog articles</h2>
+				<div class="row">
+					<article class="4u 4u$(xsmall) work-item">
+						<a href="articles/chrono/chrono.php" class="image fit thumb"><img src="images/thumbs/chrono.png"/></a>
+						<h3>How to use std::chrono to measure time in c++</h3>
+						<p> 14.06.2016 </p>
+					</article>
+				</div>
 			</section>
 		</div>
 

@@ -1,12 +1,7 @@
 <!-- Header -->
 	<header id="header">
-		<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-		<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-		<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-		<br/>
-		<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-		<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-		<h1><strong>I am Strata</strong>, a super simple<br />
-		responsive site template freebie<br />
-		crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1>
+		<a href="index.php" class="image avatar"><img src="images/content/portrait.jpg" alt="" /></a>
+		<h1><strong><a href="index.php">About Me</a></strong></h1>
+		<h1><strong><a href="blog.php">Janek's Blog</a></strong></h1>
+		<h1><strong><a href="index.php">Contact</a></strong></h1>
 	</header>
